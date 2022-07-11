@@ -1,0 +1,14 @@
+body{
+  height: 99vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-y: hidden;
+}
+.div{
+   display: flex;
+   padding: 15px;
+   border-radius: 15px;
+   background: rgb(126, 0, 245);
+   width: 300px;
+}
